@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hasankb44
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning C, Java
+- 📫 How to reach me in Discord : paradoxlife_

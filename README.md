@@ -18,5 +18,5 @@
 
 ![Ziyaretçi Sayacı](https://visitcount.itsvg.in/api?id=hasankb44&icon=0&color=0)
 
-# 👩🏻‍🐱‍👤Öne çıkan projeler
+# 🐱‍👤 Öne çıkan projeler
 [![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=hasankb44&repo=Java-Data-analysis&theme=dark)](https://github.com/hasankb44/Java-Data-analysis)
